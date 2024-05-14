@@ -3,8 +3,8 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
+  --primary: #023faa;
+  --secondary: #DC2626;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -14,8 +14,8 @@
   --overlay: #00000020;
 }
 [data-dark="true"] {
-  --primary: #0795d9;
-  --secondary: #075985;
+  --primary: #e74e4e;
+  --secondary: #0C234B;
   --text: #ffffff;
   --background: #181818;
   --background-alt: #1c1c1c;
@@ -29,7 +29,7 @@
   // font families
   --title: "Barlow", sans-serif;
   --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --body: "Roboto", sans-serif;
   --code: "Roboto Mono", monospace;
 
   // font sizes

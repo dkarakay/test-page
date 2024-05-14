@@ -13,9 +13,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: pi" %} 
+<br/>
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
 {% include section.html background="images/background.jpg" dark=true %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

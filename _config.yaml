@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: dkarakayDESCRIPTION=An engaging 1-3 sentence description of your lab.
-subtitle: 
-description: 
-header: images/background.jpg
-footer: images/background.jpg
+title: Altbach-Bilgin's Lab
+subtitle: MRI Research
+description: testset
+header: images/tucson.jpg
+footer: images/tucson.jpg
 proofer: false
 
 # site social media and other links

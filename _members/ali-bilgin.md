@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Ali Bilgin
+image: images/members/ali_bilgin.jpg
+description: Professor
 role: pi
-aliases:
-  - J. Smith
-  - J Smith
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://uweb.engr.arizona.edu/~bilgin/
+  google-scholar: https://scholar.google.com/citations?user=I25Yns8AAAAJ&hl=en
+  orcid: 0000-0003-4196-4036
+  email: bilgin@arizona.edu
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
