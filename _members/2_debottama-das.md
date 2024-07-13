@@ -1,5 +1,5 @@
 ---
 name: Debottama Das
-description: PhD's Student
+description: PhD Student
 role: phd
 ---
