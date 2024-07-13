@@ -8,5 +8,3 @@ links:
   google-scholar: https://scholar.google.com/citations?hl=en&user=P54fugMAAAAJ
   email: maltbach@radiology.arizona.edu
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

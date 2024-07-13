@@ -1,9 +1,7 @@
 ---
 ---
 
-# dkarakayDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
-
+# Altbach - Bilgin's Lab
 
 {% include section.html %}
 
